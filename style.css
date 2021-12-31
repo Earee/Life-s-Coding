@@ -1,0 +1,12 @@
+
+div{
+  border:10px solid green;
+  fontsize:80px;
+}
+
+
+@media(min-width:800px){
+div{
+display:none;
+}
+}
